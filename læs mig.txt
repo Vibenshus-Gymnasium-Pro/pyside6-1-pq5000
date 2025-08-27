@@ -1,0 +1,2 @@
+For aflevering 1 er jeg igang med at lave denne her browser, filerne for browseren er main.py og browser_test.py. Det er en tidlig version og der mangler stadigvæk funktionalitet,
+såsom forskellige faner og en settings-menu.
