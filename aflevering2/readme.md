@@ -15,6 +15,4 @@ Nu kan man:
 * Settings menu
 * Mulgvis støtte til resizing af browservinduet
 
-# Billeder
-I billedmappen har jeg uploadet et billede af hvordan appen ser ud indtil videre
 
