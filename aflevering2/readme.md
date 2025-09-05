@@ -1,0 +1,20 @@
+# Hvad jeg har lavet
+
+Nu kan man:
+* Genindlæse sider
+* Gå frem og tilbage i sin historik
+* Gå ind på forskellige url's
+* Lave nye faner
+* Slette sine nye faner
+* Dog er fanerne ikke funktionelle endnu
+
+
+# Mulig To-Do
+* Gøre fanerne funktionelle, så de rent faktisk fungerer og har en tilsvarende hjemmeside
+* Der er et problem med interfacet hvis man laver for mange faner. Enten skal der laves en grænse, eller en form for scroll layout
+* Settings menu
+* Mulgvis støtte til resizing af browservinduet
+
+# Billeder
+I billedmappen har jeg uploadet et billede af hvordan appen ser ud indtil videre
+
